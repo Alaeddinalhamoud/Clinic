@@ -1,0 +1,497 @@
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\Sqlhelper.dll
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\Sqlhelper.pdb
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+D:\pro\Clinc-B1-20-2-2008Fre\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Report_Form.FrmReport.resources
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Forms.FrmBaseForm.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Forms.FrmBaseForm.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Report_Form.FrmReport.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Forms.FrmBaseForm.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\bin\Debug\ImageComboBox.dll
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Report_Form.FrmReport.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmSearch.resources
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmBusy.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.FrmRestoreDatabase.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.frmTakeBackup.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Classes.NotifyWindow.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.Aboutus.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmBusy.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmSearch.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Report_Form.FrmReport.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+D:\ClinicProject_A1\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.dll
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.dll
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.pdb
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.pdb
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.FrmRestoreDatabase.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.frmTakeBackup.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Classes.NotifyWindow.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.Aboutus.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmBusy.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmSearch.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Report_Form.FrmReport.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmSplashScreen.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmUser.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmAdmin.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmLogin.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ControlPanel.FrmControlPanel.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmHelp.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmPermission.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmMonthInvoice.resources
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.exe
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.pdb
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\camera.exe
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\WebCam_Capture.dll
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\camera.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.FrmRestoreDatabase.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.frmTakeBackup.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Classes.NotifyWindow.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ControlPanel.FrmControlPanel.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.Aboutus.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmHelp.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmSplashScreen.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmBusy.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmSearch.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmMonthInvoice.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Report_Form.FrmReport.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmAdmin.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmLogin.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmPermission.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmUser.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+C:\Project Test\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.dll
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\camera.exe
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.dll
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.exe
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\WebCam_Capture.dll
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\camera.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.pdb
+C:\Project Test\ClinicProject_A1\clinic\clinic\bin\Debug\XPExplorerBar.dll
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\ImportExcelDataBase.dll
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\ImportExcelDataBase.pdb
+C:\Project Test\bak_19-6-2008\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+C:\Project Test\bak_19-6-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+C:\Project Test\bak_19-6-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\camera.exe
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.exe
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\ImportExcelDataBase.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\WebCam_Capture.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\camera.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\ImportExcelDataBase.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.FrmRestoreDatabase.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.frmTakeBackup.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Classes.NotifyWindow.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ControlPanel.FrmControlPanel.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.Aboutus.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmHelp.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmSplashScreen.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmBusy.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmSearch.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmMonthInvoice.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Report_Form.FrmReport.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmAdmin.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmLogin.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmPermission.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmUser.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\camera.exe
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.exe
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\ImportExcelDataBase.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\WebCam_Capture.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\camera.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\ImportExcelDataBase.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.FrmRestoreDatabase.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.frmTakeBackup.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Classes.NotifyWindow.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ControlPanel.FrmControlPanel.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.Aboutus.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmHelp.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmSplashScreen.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmBusy.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmSearch.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmMonthInvoice.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Report_Form.FrmReport.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmAdmin.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmLogin.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmPermission.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmUser.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe.config
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.exe
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.exe
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\clinic.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\camera.exe
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.exe
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\ImportExcelDataBase.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\WebCam_Capture.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\SP_Tables.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\Inter_Felid.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\Lib_Felid.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\BLL.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\ImageViewer.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\camera.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\ImportExcelDataBase.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\bin\Debug\DataAccessDal.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysis.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Analysis.FrmAnalysisType.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Appointment.FrmAppointment.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.FrmRestoreDatabase.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Bakeup.frmTakeBackup.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Classes.NotifyWindow.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ClinicData.FrmClinicData.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.ControlPanel.FrmControlPanel.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.Aboutus.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmHelp.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAboutUS.FrmSplashScreen.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmBusy.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmThread.FrmSearch.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmDisease.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmMain.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmInvoice.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Invoice.FrmMonthInvoice.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Operation.FrmOperationType.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastDisease.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmLastMedication.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.FrmPatient.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Patient.Frm_Operation_Patient.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPatient_Prescrption.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmPharmacy.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Pharmacy.FrmPrescription.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Report_Form.FrmReport.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmAdmin.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmLogin.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmPermission.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Security.FrmUser.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Visit.FrmVisit.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.Radio.FrmRadio.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.RadioType.FrmRadioType.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmStamp.FrmStamptype.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.FrmAccident.FrmAccidentType.resources
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\MyComponenet.dll
+D:\ClinicProject_A1\clinic\clinic\bin\Debug\MyComponenet.pdb
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.pharmacy.FrmMedication.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.SyrianMedicationReference.FrmSyriaMedicaton.resources
+D:\ClinicProject_A1\clinic\clinic\obj\Debug\clinic.SyrianMedicationReference.FrmSMR_All.resources

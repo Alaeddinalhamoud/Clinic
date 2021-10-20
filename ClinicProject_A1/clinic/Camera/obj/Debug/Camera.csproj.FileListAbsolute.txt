@@ -1,0 +1,48 @@
+D:\ClinicProject_A1\clinic\Webcam_Test\bin\Debug\camera.exe
+D:\ClinicProject_A1\clinic\Webcam_Test\bin\Debug\camera.pdb
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\Webcam_Test.Form1.resources
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\Camera.csproj.GenerateResource.Cache
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\camera.exe
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\camera.pdb
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\camera.Properties.Resources.resources
+D:\ClinicProject_A1\clinic\Camera\obj\Debug\camera.exe
+D:\ClinicProject_A1\clinic\Camera\obj\Debug\camera.pdb
+D:\ClinicProject_A1\clinic\Camera\bin\Debug\camera.exe
+D:\ClinicProject_A1\clinic\Camera\bin\Debug\camera.pdb
+D:\ClinicProject_A1\clinic\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\Camera\obj\Debug\Webcam_Test.Form1.resources
+D:\ClinicProject_A1\clinic\Camera\obj\Debug\camera.Properties.Resources.resources
+D:\ClinicProject_A1\clinic\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Project Test\ClinicProject_A1\clinic\Camera\bin\Debug\camera.exe
+C:\Project Test\ClinicProject_A1\clinic\Camera\bin\Debug\camera.pdb
+C:\Project Test\ClinicProject_A1\clinic\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Project Test\ClinicProject_A1\clinic\Camera\obj\Debug\Webcam_Test.Form1.resources
+C:\Project Test\ClinicProject_A1\clinic\Camera\obj\Debug\camera.Properties.Resources.resources
+C:\Project Test\ClinicProject_A1\clinic\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Project Test\ClinicProject_A1\clinic\Camera\obj\Debug\camera.exe
+C:\Project Test\ClinicProject_A1\clinic\Camera\obj\Debug\camera.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\Camera\bin\Debug\camera.exe
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\Camera\bin\Debug\camera.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\Camera\obj\Debug\Webcam_Test.Form1.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\Camera\obj\Debug\camera.Properties.Resources.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\Camera\obj\Debug\camera.exe
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\Camera\obj\Debug\camera.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\Camera\bin\Debug\camera.exe
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\Camera\bin\Debug\camera.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\Webcam_Test.Form1.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\camera.Properties.Resources.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\camera.exe
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\camera.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\Camera\bin\Debug\camera.exe
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\Camera\bin\Debug\camera.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\Webcam_Test.Form1.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\camera.Properties.Resources.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\camera.exe
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\Camera\obj\Debug\camera.pdb

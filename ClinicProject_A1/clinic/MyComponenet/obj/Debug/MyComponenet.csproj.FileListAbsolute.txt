@@ -1,0 +1,5 @@
+D:\ClinicProject_A1\clinic\MyComponenet\bin\Debug\MyComponenet.dll
+D:\ClinicProject_A1\clinic\MyComponenet\bin\Debug\MyComponenet.pdb
+D:\ClinicProject_A1\clinic\MyComponenet\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\MyComponenet\obj\Debug\MyComponenet.dll
+D:\ClinicProject_A1\clinic\MyComponenet\obj\Debug\MyComponenet.pdb

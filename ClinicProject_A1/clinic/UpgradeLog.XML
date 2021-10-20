@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="clinic">
+</Property><Property Name="Solution File" Value="D:\ClinicProject_A1\clinic\clinic.sln">
+</Property><Property Name="Date" Value="13 أيار, 2008">
+</Property><Property Name="Time" Value="15:23:28 م">
+</Property></Properties><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\NMS.SetupScripts.csproj" Description="Project file successfully backed up as D:\ClinicProject_A1\clinic\Backup\NMS.SetupScripts.csproj">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\FrmLog.cs" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\FrmLog.cs">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\FrmLog.Designer.cs" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\FrmLog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\InstallerCmd.cs" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\InstallerCmd.cs">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\InstallerCmd.Designer.cs" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\InstallerCmd.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\SetupDataBase.cs" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\SetupDataBase.cs">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\Properties\Settings.settings" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\FrmLog.resx" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\FrmLog.resx">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\Properties\Resources.resx" Description="File successfully backed up as D:\ClinicProject_A1\clinic\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\NMS.SetupScripts.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NMS.SetupScripts" Source="NMS.SetupScripts\NMS.SetupScripts.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NMS.SetupScripts" Source="NMS.SetupScripts\NMS.SetupScripts.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

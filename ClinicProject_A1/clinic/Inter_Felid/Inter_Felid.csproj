@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A0EBB206-C4CA-46A1-9AE5-030A23965434}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Inter_Felid</RootNamespace>
+    <AssemblyName>Inter_Felid</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Inter_Felid_Accident.cs" />
+    <Compile Include="Inter_Felid_Anlaysis.cs" />
+    <Compile Include="Inter_Felid_AnlaysisType.cs" />
+    <Compile Include="Inter_Felid_Appointment.cs" />
+    <Compile Include="Inter_Felid_Blood.cs" />
+    <Compile Include="Inter_Felid_ClinicData.cs" />
+    <Compile Include="Inter_Felid_Disase_Visit.cs" />
+    <Compile Include="Inter_Felid_Disease.cs" />
+    <Compile Include="Inter_Felid_Invoice.cs" />
+    <Compile Include="Inter_Felid_Medications.cs" />
+    <Compile Include="Inter_Felid_Operation.cs" />
+    <Compile Include="Inter_Felid_OperationType.cs" />
+    <Compile Include="Inter_Felid_Patient.cs" />
+    <Compile Include="Inter_Felid_Patient_LastDisease.cs" />
+    <Compile Include="Inter_Felid_Patient_LastMedication.cs" />
+    <Compile Include="Inter_Felid_Permission.cs" />
+    <Compile Include="Inter_Felid_Prescription.cs" />
+    <Compile Include="Inter_Felid_Prescription_Medications.cs" />
+    <Compile Include="Inter_Felid_Radio.cs" />
+    <Compile Include="Inter_Felid_RadioType.cs" />
+    <Compile Include="Inter_Felid_Sex.cs" />
+    <Compile Include="Inter_Felid_SocialState.cs" />
+    <Compile Include="Inter_Felid_Stamp.cs" />
+    <Compile Include="Inter_Felid_Time.cs" />
+    <Compile Include="Inter_Felid_User.cs" />
+    <Compile Include="Inter_Felid_Visit.cs" />
+    <Compile Include="Inter_Felid_VisitType.cs" />
+    <Compile Include="Inter_Felid_Visit_Accident.cs" />
+    <Compile Include="Inter_Felid_Visit_Stamp.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Inter_TakeBakeup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lib_Felid\Lib_Felid.csproj">
+      <Project>{43484020-00B4-40D7-9CB8-CEEFFD30F700}</Project>
+      <Name>Lib_Felid</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

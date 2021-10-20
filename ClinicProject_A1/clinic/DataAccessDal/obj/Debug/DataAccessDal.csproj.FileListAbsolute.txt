@@ -1,0 +1,54 @@
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.pdb
+D:\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.dll
+D:\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.pdb
+D:\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.dll
+D:\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.dll
+D:\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.pdb
+D:\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.pdb
+D:\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.dll
+D:\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.pdb
+C:\Project Test\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.dll
+C:\Project Test\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.pdb
+C:\Project Test\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.dll
+C:\Project Test\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.dll
+C:\Project Test\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.pdb
+C:\Project Test\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.pdb
+C:\Project Test\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\ResolveAssemblyReference.cache
+C:\Project Test\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.dll
+C:\Project Test\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\DataAccessDal.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Lib_Felid.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DataAccessDal\bin\Debug\Inter_Felid.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DataAccessDal\obj\Debug\DataAccessDal.pdb

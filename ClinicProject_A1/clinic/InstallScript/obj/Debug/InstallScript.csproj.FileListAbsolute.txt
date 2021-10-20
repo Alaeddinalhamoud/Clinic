@@ -1,0 +1,15 @@
+D:\ClinicProject_A1\clinic\InstallScript\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\InstallScript\bin\Debug\InstallScript.dll
+D:\ClinicProject_A1\clinic\InstallScript\bin\Debug\InstallScript.pdb
+D:\ClinicProject_A1\clinic\InstallScript\obj\Debug\InstallScript.dll
+D:\ClinicProject_A1\clinic\InstallScript\obj\Debug\InstallScript.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\InstallScript\bin\Debug\InstallScript.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\InstallScript\bin\Debug\InstallScript.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\InstallScript\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\InstallScript\obj\Debug\InstallScript.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\InstallScript\obj\Debug\InstallScript.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\InstallScript\bin\Debug\InstallScript.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\InstallScript\bin\Debug\InstallScript.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\InstallScript\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\InstallScript\obj\Debug\InstallScript.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\InstallScript\obj\Debug\InstallScript.pdb

@@ -1,0 +1,5 @@
+D:\ClinicProject_A1\clinic\Controls_CLB\bin\Debug\Controls_CLB.dll
+D:\ClinicProject_A1\clinic\Controls_CLB\bin\Debug\Controls_CLB.pdb
+D:\ClinicProject_A1\clinic\Controls_CLB\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\Controls_CLB\obj\Debug\Controls_CLB.dll
+D:\ClinicProject_A1\clinic\Controls_CLB\obj\Debug\Controls_CLB.pdb

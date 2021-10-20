@@ -1,0 +1,384 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GeminiSoftworks.Web.Navigation
+</name>
+</assembly>
+<members>
+<member name="P:GeminiSoftworks.Web.Navigation.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:GeminiSoftworks.Web.Navigation.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:GeminiSoftworks.Web.Navigation.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:GeminiSoftworks.Web.Navigation.TabBar.TabsAlignment">
+	<summary>
+ Specifies the alignment of tabs on the tab bar
+ </summary>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.CssClass">
+	<summary>
+ The CSS Class used for the tab bar
+ </summary>
+	<value>CSS Class name</value>
+	<returns>CSS Class name</returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.Font">
+	<summary>
+ Font info for the tab bar
+ </summary>
+	<value></value>
+	<returns>font info</returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.ForeColor">
+	<summary>
+ Text color for tab text
+ </summary>
+	<value>text color</value>
+	<returns>text color</returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.Visible">
+	<summary>
+ Sets the visibility of the tab bar
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.ToolTip">
+	<summary>
+ The tool tip displayed for the tab bar
+ </summary>
+	<value>tool tip text</value>
+	<returns>tool tip text</returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.Width">
+	<summary>
+ Sets the width of the tab bar
+ </summary>
+	<value>width unit</value>
+	<returns>width unit</returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.Tabs">
+	<summary>
+ The collection of tabs for the tab bar
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.ActiveTab">
+	<summary>
+ The current active tab for the tab bar
+ </summary>
+	<value>active tab name</value>
+	<returns>active tab name</returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.AutoDetermineActiveTabByPage">
+	<summary>
+ Sets whether the control should auto-determine the active tab based on the current execution page
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.AlignTabs">
+	<summary>
+ Sets the alignment for the tabs on the tab bar
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.TabPixelWidth">
+	<summary>
+ Sets the width in pixels of each tab on the tab bar
+ </summary>
+	<value>tab width in pixels</value>
+	<returns>tab width in pixels</returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.ActiveTabLeftImage">
+	<summary>
+ The link to the image used for the left side of an active tab 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.ActiveTabCenterImage">
+	<summary>
+ The link to the image used for the center of an active tab 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.ActiveTabRightImage">
+	<summary>
+ The link to the image used for the right side of an active tab 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.ActiveTabBorderImage">
+	<summary>
+ The link to the image used for the bottom of an active tab 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.InactiveTabLeftImage">
+	<summary>
+ The link to the image used for the left side of an inactive tab 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.InactiveTabCenterImage">
+	<summary>
+ The link to the image used for the center of an inactive tab 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.InactiveTabRightImage">
+	<summary>
+ The link to the image used for the right side of an inactive tab 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.InactiveTabBorderImage">
+	<summary>
+ The link to the image used for the bottom of an inactive tab 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.TabBarBorderImage">
+	<summary>
+ The link to the image used for the bottom of the tab bar 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.UseCustomTabImages">
+	<summary>
+ Sets whether to use the embedded images or custom images for the tab bar
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.TabBar.HashedTabs">
+	<summary>
+ The hashtable used to serialize tabs to viewstate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.#ctor">
+	<summary>
+ Constructor
+ </summary>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.LoadViewState(System.Object)">
+	<summary>
+ Gets tab bar state from viewstate
+ </summary>
+	<param name="savedState"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.SaveViewState">
+	<summary>
+ Sets tab bar state in viewstate
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.Render(System.Web.UI.HtmlTextWriter)">
+	<summary>
+ Renders the tab bar
+ </summary>
+	<param name="writer"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.RaisePostBackEvent(System.String)">
+	<summary>
+ Raises the tab click event on tab click (this event can be canceled)
+ </summary>
+	<param name="eventArgument"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.IsTabValidForRole(GeminiSoftworks.Web.Navigation.Tab)">
+	<summary>
+ function return is based on the closest match to the user's authentication / authorization context
+ if a tab has roles ("Admin","*") all users will see the tab
+ this function can be overridden in an inherited TabBar to allow for custom security
+ </summary>
+	<param name="t"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.IsTabActive(GeminiSoftworks.Web.Navigation.Tab)">
+	<summary>
+ Returns whether the arg tab is active
+ </summary>
+	<param name="t"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.RenderEmptyTabBar(System.Web.UI.HtmlTextWriter)">
+	<summary>
+ Renders an empty tab bar
+ </summary>
+	<param name="writer"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.RenderBeginTabBar(System.Web.UI.HtmlTextWriter)">
+	<summary>
+ Begins the rendering of a tab bar with tabs
+ </summary>
+	<param name="writer"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.RenderBeginTabBarStart(System.Web.UI.HtmlTextWriter)">
+	<summary>
+ Renders the beginning of the tab bar
+ </summary>
+	<param name="writer"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.RenderTab(System.Web.UI.HtmlTextWriter,GeminiSoftworks.Web.Navigation.Tab,System.Boolean)">
+	<summary>
+ Renders the tabs on the tab bar
+ </summary>
+	<param name="writer"></param>
+	<param name="t"></param>
+	<param name="tabIsActive"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.RenderEndTabBar(System.Web.UI.HtmlTextWriter)">
+	<summary>
+ Renders the end of the tab bar
+ </summary>
+	<param name="writer"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.RenderActiveTabBottomBorderCell(System.Web.UI.HtmlTextWriter)">
+	<summary>
+ Renders the bottom of an the active tab
+ </summary>
+	<param name="writer"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.RenderInactiveTabBottomBorderCell(System.Web.UI.HtmlTextWriter)">
+	<summary>
+ Renders the bottom of an inactive tab
+ </summary>
+	<param name="writer"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabBar.FontStyleBuilder">
+	<summary>
+ Writes the in-line style settings for the font info specified
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.Name">
+	<summary>
+ The name (ID) of the tab
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks>This value should be unique within the tab bar</remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.Text">
+	<summary>
+ The text to display on the tab
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.ToolTip">
+	<summary>
+ The tool tip to display for the tab
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.IsActive">
+	<summary>
+ Returns the active state of the tab
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.Visible">
+	<summary>
+ Sets the visibility of the tab
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.Link">
+	<summary>
+ Sets the link to navigate to for the tab
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.ActivePagesList">
+	<summary>
+ Sets the pages that the tab should render as active for
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.AllowRoles">
+	<summary>
+ Sets the roles that the tab should render as visible for
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.UseServerTransferMethod">
+	<summary>
+ Specifies to use server.transfer instead of response.redirect for navigation
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks>Using server.transfer will break the roles automation.</remarks>
+</member><member name="P:GeminiSoftworks.Web.Navigation.Tab.PreserveFormOnTransfer">
+	<summary>
+ Sets whether to preserve the form on server.transfer
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.Tab.#ctor">
+	<summary>
+ Default Constructor
+ </summary>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.Tab.#ctor(System.String,System.String)">
+	<summary>
+ Overload Constructor 1
+ </summary>
+	<param name="tabName"></param>
+	<param name="tabText"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.Tab.#ctor(System.String,System.String,System.String)">
+	<summary>
+ Overload Constructor 2
+ </summary>
+	<param name="tabName"></param>
+	<param name="tabText"></param>
+	<param name="tabLink"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.Tab.#ctor(System.String,System.String,System.String,System.String)">
+	<summary>
+ Overload Constructor 3
+ </summary>
+	<param name="tabName"></param>
+	<param name="tabText"></param>
+	<param name="tabLink"></param>
+	<param name="tabToolTip"></param>
+	<remarks></remarks>
+</member><member name="M:GeminiSoftworks.Web.Navigation.TabCollection.GetTab(System.String)">
+	<summary>
+ Returns the tab object identified by name
+ </summary>
+	<param name="name"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

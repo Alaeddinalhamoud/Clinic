@@ -1,0 +1,25 @@
+C:\Documents and Settings\Fox.guest\Desktop\frommm\C# ex\C# ex\C__Webcam_161075762003\Webcam_Test\bin\Debug\Webcam_Test.exe
+C:\Documents and Settings\Fox.guest\Desktop\frommm\C# ex\C# ex\C__Webcam_161075762003\Webcam_Test\bin\Debug\Webcam_Test.pdb
+C:\Documents and Settings\Fox.guest\Desktop\frommm\C# ex\C# ex\C__Webcam_161075762003\Webcam_Test\bin\Debug\WebCam_Capture.dll
+C:\Documents and Settings\Fox.guest\Desktop\frommm\C# ex\C# ex\C__Webcam_161075762003\Webcam_Test\bin\Debug\WebCam_Capture.pdb
+C:\Documents and Settings\Fox.guest\Desktop\frommm\C# ex\C# ex\C__Webcam_161075762003\Webcam_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fox.guest\Desktop\frommm\C# ex\C# ex\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.Form1.resources
+C:\Documents and Settings\Fox.guest\Desktop\frommm\C# ex\C# ex\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.csproj.GenerateResource.Cache
+C:\Documents and Settings\Fox.guest\Desktop\frommm\C# ex\C# ex\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.exe
+C:\Documents and Settings\Fox.guest\Desktop\frommm\C# ex\C# ex\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.pdb
+C:\Users\VIP\Desktop\Test Cam\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.exe
+C:\Users\VIP\Desktop\Test Cam\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.pdb
+C:\Users\VIP\Desktop\Test Cam\C__Webcam_161075762003\Webcam_Test\bin\Debug\Webcam_Test.exe
+C:\Users\VIP\Desktop\Test Cam\C__Webcam_161075762003\Webcam_Test\bin\Debug\Webcam_Test.pdb
+C:\Users\VIP\Desktop\Test Cam\C__Webcam_161075762003\Webcam_Test\bin\Debug\WebCam_Capture.dll
+C:\Users\VIP\Desktop\Test Cam\C__Webcam_161075762003\Webcam_Test\bin\Debug\WebCam_Capture.pdb
+C:\Users\VIP\Desktop\Test Cam\C__Webcam_161075762003\Webcam_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\Test Cam\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.Form1.resources
+C:\Users\VIP\Desktop\Test Cam\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.csproj.GenerateResource.Cache
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\Webcam_Test.Form1.resources
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\Webcam_Test.csproj.GenerateResource.Cache
+D:\ClinicProject_A1\clinic\Webcam_Test\bin\Debug\camera.exe
+D:\ClinicProject_A1\clinic\Webcam_Test\bin\Debug\camera.pdb
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\camera.exe
+D:\ClinicProject_A1\clinic\Webcam_Test\obj\Debug\camera.pdb

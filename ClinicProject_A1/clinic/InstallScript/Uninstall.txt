@@ -1,0 +1,3 @@
+if Exists (Select Name From master.dbo.sysdatabases Where Name = N'CLINICDB')
+	Drop Database [CLINICDB]
+	

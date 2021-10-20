@@ -1,0 +1,179 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using SP_Tables;
+using Lib_Felid;
+
+namespace clinic.Patient
+{
+    public partial class FrmPatient : Form
+    {
+        public FrmPatient()
+        {
+            InitializeComponent();
+        }
+
+        //THis For SP_PA_All
+        SP_Patient _SP_Patient_All = new SP_Patient();
+        SP_Sex _SP_Sex = new SP_Sex();
+        SP_Blood _SP_Blood = new SP_Blood();
+        //
+
+        private void FrmPatient_Load(object sender, EventArgs e)
+        {
+            DGV_Patient_All.AutoGenerateColumns = false;
+            Felid_Sex _Felid_Sex = new Felid_Sex();
+            DGV_Patient_All.DataSource = _SP_Patient_All.SP_Browes_Patient_All();
+            
+            ////Fill Combo Sex
+            Cmb_Sex.DisplayMember = "Sex";
+            Cmb_Sex.ValueMember = "SexID"; 
+            Cmb_Sex.DataSource= _SP_Sex.SP_Browes_Sex();
+          
+            ////
+
+            SP_Disease _SP_Disease = new SP_Disease();
+           // ChLB_LastDisease.DataBindings=_SP_Disease.SP_Browes_Disease_All();
+
+          ////Felid ComBo Blood
+            Felid_Blood _Felid_Blood = new Felid_Blood();
+            Cmb_Blood.DisplayMember = "BloodType";
+            Cmb_Blood.ValueMember = "BloodID";
+            Cmb_Blood.DataSource = _SP_Blood.SP_Browes_Blood();
+
+           
+
+            
+
+
+
+        }
+
+        
+
+        
+
+        private void txt_PatientID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txt_AddressHome_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_LastDisease_Click(object sender, EventArgs e)
+        {
+            
+                if (ChLB_LastDisease.Visible == false)
+                    ChLB_LastDisease.Visible = true;
+                else ChLB_LastDisease.Visible = false;
+           
+        }
+
+       
+
+        private void btn_FamilyDisease_Click(object sender, EventArgs e)
+        {
+            if (ChLB_FamilyDisease.Visible == false)
+                ChLB_FamilyDisease.Visible = true;
+            else
+                ChLB_FamilyDisease.Visible = false;
+
+        }
+
+        private void btn_LastMedication_Click(object sender, EventArgs e)
+        {
+            if (ChLB_LastMedication.Visible == false)
+                ChLB_LastMedication.Visible = true;
+            else ChLB_LastMedication.Visible = false;
+        }
+
+        private void txt_Mobile_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TS_btn_Add_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Search_Click(object sender, EventArgs e)
+        {
+            if (RB_PatientID.Checked == true)
+            {
+                if (txt_Search.Text == "")
+                {
+                    MessageBox.Show("ادخل رقم المريض");
+                }
+                else
+                    DGV_Patient_All.DataSource = _SP_Patient_All.SP_Browes_Patient_By_PatientID(Convert.ToInt32(txt_Search.Text));
+            }
+            else if (RB_FirstName.Checked == true)
+            {
+                
+                if (txt_Search.Text == "")
+                {
+                    MessageBox.Show("ادخل الاسم الاول");
+                }
+                else
+                
+                    DGV_Patient_All.DataSource = _SP_Patient_All.SP_Browes_Patient_By_FirstName(txt_Search.Text);
+            }
+            else
+            {
+                if (txt_Search.Text == "")
+                {
+                    MessageBox.Show("ادخل الاسم الاخير");
+                }
+                else
+                    DGV_Patient_All.DataSource = _SP_Patient_All.SP_Browes_Patient_By_LastName(txt_Search.Text);
+            }
+
+
+        }
+
+        private void RB_PatientID_CheckedChanged(object sender, EventArgs e)
+        {
+            txt_Search.Text = "";
+            lbl_TEXT.Text = RB_PatientID.Text;
+        }
+
+        private void RB_FirstName_CheckedChanged(object sender, EventArgs e)
+        {
+            txt_Search.Text = "";
+            lbl_TEXT.Text = RB_FirstName.Text;
+        }
+
+        private void RB_LastName_CheckedChanged(object sender, EventArgs e)
+        {
+            txt_Search.Text = "";
+            lbl_TEXT.Text = RB_LastName.Text;
+        }
+
+        private void GB_Search_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GB_Rep_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        
+
+      
+
+       
+
+      
+    }
+}

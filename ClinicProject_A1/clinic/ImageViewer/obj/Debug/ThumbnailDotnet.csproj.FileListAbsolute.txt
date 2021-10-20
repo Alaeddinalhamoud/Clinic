@@ -1,0 +1,10 @@
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\obj\Debug\marlie.TumbnailDotnet.ImageDialog.resources
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\obj\Debug\marlie.TumbnailDotnet.ImageViewer.resources
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\obj\Debug\marlie.TumbnailDotnet.MainForm.resources
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\obj\Debug\ThumbnailDotnet.csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\bin\Debug\TumbnailDotnet.exe
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\bin\Debug\TumbnailDotnet.pdb
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\obj\Debug\TumbnailDotnet.Properties.Resources.resources
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\obj\Debug\TumbnailDotnet.exe
+C:\Users\VIP\Desktop\Image Thumbnail Viewer with .NET 2.0\ThumbnailDotnet_demo\ThumbnailDotnet\obj\Debug\TumbnailDotnet.pdb

@@ -1,0 +1,50 @@
+D:\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.exe
+D:\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.pdb
+D:\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+D:\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+D:\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.exe
+D:\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.pdb
+D:\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageDialog.resources
+D:\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageViewer.resources
+D:\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.MainForm.resources
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.exe
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageDialog.resources
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageViewer.resources
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.MainForm.resources
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.exe
+C:\Project Test\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.exe
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageDialog.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageViewer.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.MainForm.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.exe
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.exe
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageDialog.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageViewer.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.MainForm.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.exe
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.exe
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageDialog.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.ImageViewer.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\TumbnailDotnet.MainForm.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.exe
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImageViewer\obj\Debug\ImageViewer.pdb

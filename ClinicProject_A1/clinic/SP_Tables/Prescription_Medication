@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Inter_Felid;
+
+namespace SP_Tables
+{
+    public class SP_Patient_Medication:Inter_Felid_Prescription_Medication
+    {
+
+        #region Inter_Felid_Prescription_Medication Members
+
+        public Lib_Felid.Felid_Prescription_Medication SP_Browes_Patient_Medication()
+        {
+            throw new NotImplementedException();
+        }
+
+        public int SP_Insert_Patient_Medication(Lib_Felid.Felid_Prescription_Medication Felid)
+        {
+            throw new NotImplementedException();
+        }
+
+        public int SP_UpDate_Medications_By_ID(Lib_Felid.Felid_Prescription_Medication Felid)
+        {
+            throw new NotImplementedException();
+        }
+
+        #endregion
+    }
+}

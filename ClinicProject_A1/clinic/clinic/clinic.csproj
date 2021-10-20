@@ -1,0 +1,989 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8D4F2535-29DC-4C9E-9394-A107A82A232D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>clinic</RootNamespace>
+    <AssemblyName>clinic</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <ApplicationIcon>head physician.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AgentObjects, Version=1.5.0.0, Culture=neutral" />
+    <Reference Include="AgentServerObjects, Version=2.0.0.0, Culture=neutral" />
+    <Reference Include="ClassLibrary1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Administrator\Desktop\list box and cheked box\Bindable CheckedListBox\ClassLibrary1.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="ImageComboBox, Version=1.0.2008.18717, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Documents and Settings\pc1\Desktop\ImageComboBox.dll</HintPath>
+    </Reference>
+    <Reference Include="ImportExcelDataBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ImportExcelDataBase\bin\Debug\ImportExcelDataBase.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.SpeechLib, Version=5.0.0.0, Culture=neutral" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.SmoEnum, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Renderers, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Sqlhelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="XPExplorerBar, Version=3.3.0.0, Culture=neutral, PublicKeyToken=26272737b5f33015, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Documents and Settings\Fox.guest\Desktop\XPExplorerBar.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analysis\FrmAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Analysis\FrmAnalysis.Designer.cs">
+      <DependentUpon>FrmAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Analysis\FrmAnalysisType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Analysis\FrmAnalysisType.designer.cs">
+      <DependentUpon>FrmAnalysisType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Appointment\FrmAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appointment\FrmAppointment.Designer.cs">
+      <DependentUpon>FrmAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bakeup\FrmRestoreDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bakeup\FrmRestoreDatabase.Designer.cs">
+      <DependentUpon>FrmRestoreDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bakeup\frmTakeBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bakeup\frmTakeBackup.Designer.cs">
+      <DependentUpon>frmTakeBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\C_ThreadLoding.cs" />
+    <Compile Include="Classes\InstantObject.cs" />
+    <Compile Include="Classes\IsEmailValidations.cs" />
+    <Compile Include="Classes\NotifyWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClinicData\FrmClinicData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClinicData\FrmClinicData.Designer.cs">
+      <DependentUpon>FrmClinicData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPanel\FrmControlPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlPanel\FrmControlPanel.Designer.cs">
+      <DependentUpon>FrmControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAboutUS\Aboutus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAboutUS\Aboutus.Designer.cs">
+      <DependentUpon>Aboutus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAboutUS\FrmHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAboutUS\FrmHelp.Designer.cs">
+      <DependentUpon>FrmHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAboutUS\FrmSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAboutUS\FrmSplashScreen.Designer.cs">
+      <DependentUpon>FrmSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAccident\FrmAccidentType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAccident\FrmAccidentType.Designer.cs">
+      <DependentUpon>FrmAccidentType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStamp\FrmStamptype.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStamp\FrmStamptype.Designer.cs">
+      <DependentUpon>FrmStamptype.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmThread\FrmBusy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmThread\FrmBusy.Designer.cs">
+      <DependentUpon>FrmBusy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmThread\FrmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmThread\FrmSearch.Designer.cs">
+      <DependentUpon>FrmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Disease\FrmDisease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Disease\FrmDisease.designer.cs">
+      <DependentUpon>FrmDisease.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice\FrmInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice\FrmInvoice.Designer.cs">
+      <DependentUpon>FrmInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice\FrmMonthInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice\FrmMonthInvoice.Designer.cs">
+      <DependentUpon>FrmMonthInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operation\FrmOperationType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Operation\FrmOperationType.Designer.cs">
+      <DependentUpon>FrmOperationType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\FrmLastDisease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient\FrmLastDisease.Designer.cs">
+      <DependentUpon>FrmLastDisease.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\FrmLastMedication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient\FrmLastMedication.Designer.cs">
+      <DependentUpon>FrmLastMedication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\FrmPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient\FrmPatient.Designer.cs">
+      <DependentUpon>FrmPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\Frm_Operation_Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient\Frm_Operation_Patient.Designer.cs">
+      <DependentUpon>Frm_Operation_Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy\FrmMedication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy\FrmMedication.Designer.cs">
+      <DependentUpon>FrmMedication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy\FrmPatient_Prescrption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy\FrmPatient_Prescrption.Designer.cs">
+      <DependentUpon>FrmPatient_Prescrption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy\FrmPharmacy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy\FrmPharmacy.Designer.cs">
+      <DependentUpon>FrmPharmacy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy\FrmPrescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy\FrmPrescription.Designer.cs">
+      <DependentUpon>FrmPrescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Analysis\FrmAnalysis.resx">
+      <DependentUpon>FrmAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Analysis\FrmAnalysisType.resx">
+      <DependentUpon>FrmAnalysisType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Appointment\FrmAppointment.resx">
+      <DependentUpon>FrmAppointment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bakeup\FrmRestoreDatabase.resx">
+      <DependentUpon>FrmRestoreDatabase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bakeup\frmTakeBackup.resx">
+      <DependentUpon>frmTakeBackup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\NotifyWindow.resx">
+      <DependentUpon>NotifyWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClinicData\FrmClinicData.resx">
+      <DependentUpon>FrmClinicData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlPanel\FrmControlPanel.resx">
+      <DependentUpon>FrmControlPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAboutUS\Aboutus.resx">
+      <DependentUpon>Aboutus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAboutUS\FrmHelp.resx">
+      <DependentUpon>FrmHelp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAboutUS\FrmSplashScreen.resx">
+      <DependentUpon>FrmSplashScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAccident\FrmAccidentType.resx">
+      <DependentUpon>FrmAccidentType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStamp\FrmStamptype.resx">
+      <DependentUpon>FrmStamptype.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmThread\FrmBusy.resx">
+      <DependentUpon>FrmBusy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmThread\FrmSearch.resx">
+      <DependentUpon>FrmSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Disease\FrmDisease.resx">
+      <DependentUpon>FrmDisease.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice\FrmInvoice.resx">
+      <DependentUpon>FrmInvoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice\FrmMonthInvoice.resx">
+      <DependentUpon>FrmMonthInvoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Operation\FrmOperationType.resx">
+      <DependentUpon>FrmOperationType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient\FrmLastDisease.resx">
+      <DependentUpon>FrmLastDisease.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient\FrmLastMedication.resx">
+      <DependentUpon>FrmLastMedication.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient\FrmPatient.resx">
+      <DependentUpon>FrmPatient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient\Frm_Operation_Patient.resx">
+      <DependentUpon>Frm_Operation_Patient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy\FrmMedication.resx">
+      <DependentUpon>FrmMedication.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy\FrmPatient_Prescrption.resx">
+      <DependentUpon>FrmPatient_Prescrption.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy\FrmPharmacy.resx">
+      <DependentUpon>FrmPharmacy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy\FrmPrescription.resx">
+      <DependentUpon>FrmPrescription.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report Form\FrmReport.resx">
+      <DependentUpon>FrmReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PatientReportByID.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PatientReportByID.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptAnalysisFlowChar.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptAnalysisFlowChar.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAnalysisForPateintID.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAnalysisForPateintID.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptAnalysisPatientID.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptAnalysisPatientID.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptAnalysisTypeAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptAnalysisTypeAll.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptDiseaseAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptDiseaseAll.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptAnalysisAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptAnalysisAll.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptDiseaseInhert.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptDiseaseInhert.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptInoiceByInvoiceID.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInoiceByInvoiceID.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptInvoiceByPatientID.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInvoiceByPatientID.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptInvoice_ReportMonth.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInvoice_ReportMonth.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptMedication.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptMedication.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptOpeartaionFlowChar.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptOpeartaionFlowChar.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptOpeationAllPateint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptOpeationAllPateint.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptOperationPatient.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptOperationPatient.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptOperationTypeAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptOperationTypeAll.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptPatientDtailsFromToDate.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptPatientDtailsFromToDate.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptPescription.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptPescription.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptRadioAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptRadioAll.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptRadioFlowChar.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptRadioFlowChar.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptRadioReportPatientID.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptRadioReportPatientID.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptRadioTypeALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptRadioTypeALL.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Security\FrmAdmin.resx">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Security\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Security\FrmPermission.resx">
+      <DependentUpon>FrmPermission.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Security\FrmUser.resx">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SyrianMedicationReference\FrmSMR_All.resx">
+      <DependentUpon>FrmSMR_All.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SyrianMedicationReference\FrmSyriaMedicaton.resx">
+      <DependentUpon>FrmSyriaMedicaton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visit\FrmVisit.resx">
+      <DependentUpon>FrmVisit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Radio\FrmRadio.resx">
+      <DependentUpon>FrmRadio.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Radio\FrmRadioType.resx">
+      <DependentUpon>FrmRadioType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Report Form\FrmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report Form\FrmReport.Designer.cs">
+      <DependentUpon>FrmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\PatientReportByID.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PatientReportByID.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptAnalysisFlowChar.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptAnalysisFlowChar.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAnalysisForPateintID.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAnalysisForPateintID.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptAnalysisPatientID.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptAnalysisPatientID.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptAnalysisTypeAll.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptAnalysisTypeAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptDiseaseAll.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptDiseaseAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptAnalysisAll.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptAnalysisAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptDiseaseInhert.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptDiseaseInhert.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptInoiceByInvoiceID.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptInoiceByInvoiceID.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptInvoiceByPatientID.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptInvoiceByPatientID.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptInvoice_ReportMonth.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptInvoice_ReportMonth.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptMedication.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptMedication.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptOpeartaionFlowChar.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptOpeartaionFlowChar.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptOpeationAllPateint.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptOpeationAllPateint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptOperationPatient.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptOperationPatient.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptOperationTypeAll.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptOperationTypeAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptPatientDtailsFromToDate.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptPatientDtailsFromToDate.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptPescription.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptPescription.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptRadioAll.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptRadioAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptRadioFlowChar.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptRadioFlowChar.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptRadioReportPatientID.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptRadioReportPatientID.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptRadioTypeALL.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptRadioTypeALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Security\FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Security\FrmAdmin.Designer.cs">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Security\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Security\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Security\FrmPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Security\FrmPermission.Designer.cs">
+      <DependentUpon>FrmPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Security\FrmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Security\FrmUser.Designer.cs">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyrianMedicationReference\FrmSMR_All.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SyrianMedicationReference\FrmSMR_All.Designer.cs">
+      <DependentUpon>FrmSMR_All.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyrianMedicationReference\FrmSyriaMedicaton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SyrianMedicationReference\FrmSyriaMedicaton.Designer.cs">
+      <DependentUpon>FrmSyriaMedicaton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visit\FrmVisit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visit\FrmVisit.Designer.cs">
+      <DependentUpon>FrmVisit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Radio\FrmRadio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Radio\FrmRadio.Designer.cs">
+      <DependentUpon>FrmRadio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Radio\FrmRadioType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Radio\FrmRadioType.Designer.cs">
+      <DependentUpon>FrmRadioType.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{3C4F39E4-B1FE-472E-9E3C-FE77E1A946E5}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Camera\Camera.csproj">
+      <Project>{79C5A124-F4B8-4E98-A6CC-3B64F5FBE317}</Project>
+      <Name>Camera</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccessDal\DataAccessDal.csproj">
+      <Project>{0B3D5396-C594-4D55-841C-1276B0C14353}</Project>
+      <Name>DataAccessDal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ImageViewer\ImageViewer.csproj">
+      <Project>{2877092E-678C-48A4-8DF4-113BE87E0AFB}</Project>
+      <Name>ImageViewer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Inter_Felid\Inter_Felid.csproj">
+      <Project>{A0EBB206-C4CA-46A1-9AE5-030A23965434}</Project>
+      <Name>Inter_Felid</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lib_Felid\Lib_Felid.csproj">
+      <Project>{43484020-00B4-40D7-9CB8-CEEFFD30F700}</Project>
+      <Name>Lib_Felid</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyComponenet\MyComponenet.csproj">
+      <Project>{5E59F869-1737-4DA7-A3AF-1581DAD63CD0}</Project>
+      <Name>MyComponenet</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SP_Tables\SP_Tables.csproj">
+      <Project>{199A3955-1784-46CF-86A3-3C94A08CC627}</Project>
+      <Name>SP_Tables</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image_Path\Resource\she_user_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image_Path\Resource\she_user_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_256_h.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\she_user_accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\387asmilies-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pills_128_hot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emot118.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ambulance_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SimpleTextEdit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Date and Time.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microscope_128_hot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wi0124-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accessibility.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical insurance-256x256x32b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Accounts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ambulance_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image_Path\Resource\pill-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AllDesign_biz_121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_server.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop_256_h.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital_bed_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empty Recycle Bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\359asmilies-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\381asmilies-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snake_cup-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Accounts1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Date and Time1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stethoscope-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\she_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\she_users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TextEdit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notes_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notes_editb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clinic_SplashScreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clinc2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows-Security.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical insurance-32x32x8b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keys.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Good.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\LaST %28Cobalt%29 Books.png" />
+    <Content Include="head physician.ico" />
+    <None Include="Resources\URL Link.png" />
+    <None Include="Resources\Medical_Symbol.jpg" />
+    <None Include="Resources\medical-symbol-268585.jpg" />
+    <None Include="Resources\ver1.png" />
+    <None Include="Resources\vista.PNG" />
+    <None Include="Resources\Clock %28Custom%29.png" />
+    <None Include="Resources\Date and Time %28Custom%29.png" />
+    <None Include="Resources\tdx_excel2 %28Custom%29.png" />
+    <None Include="Resources\Untitled.png" />
+    <None Include="Resources\253asmilies-com.png" />
+    <None Include="Resources\pc-webcam.png" />
+    <None Include="Resources\lightning_sign_256.png" />
+    <None Include="Resources\226asmilies-com.png" />
+    <None Include="Resources\381asmilies-com1.png" />
+    <None Include="Resources\Good-Shield.png" />
+    <None Include="Resources\Locker.png" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\CD-DVD_Drive_Alt.png" />
+    <None Include="Resources\Control Panel.png" />
+    <None Include="Resources\microscope_48.png" />
+    <None Include="Resources\user-48.png" />
+    <None Include="Resources\snake_cup-048.png" />
+    <None Include="Resources\snake_cup-032.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

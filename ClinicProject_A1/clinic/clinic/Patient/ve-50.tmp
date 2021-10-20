@@ -1,0 +1,254 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using SP_Tables;
+using Lib_Felid;
+using Lib_Felid.Patient;
+
+namespace clinic.Patient
+{
+    public partial class FrmPatient : Form
+    {
+        public FrmPatient()
+        {
+            InitializeComponent();
+        }
+
+        //THis For SP_All
+        SP_Patient _SP_Patient_All = new SP_Patient();
+        SP_Sex _SP_Sex = new SP_Sex();
+        SP_Blood _SP_Blood = new SP_Blood();
+        SP_SocialState _SP_SocialState = new SP_SocialState();
+        SP_Disease _SP_Disease = new SP_Disease();
+        SP_Medications _SP_Medications = new SP_Medications();   
+        //
+        Felid_Patient _Felid_Patient = new Felid_Patient();
+        Felid_Sex _Felid_Sex = new Felid_Sex();
+        Felid_Blood _Felid_Blood = new Felid_Blood();
+        private void FrmPatient_Load(object sender, EventArgs e)
+        {
+            DGV_Patient_All.AutoGenerateColumns = false;
+           
+            DGV_Patient_All.DataSource = _SP_Patient_All.SP_Browes_Patient_All();
+            
+            ////Fill Combo Sex
+            
+            Cmb_Sex.DisplayMember = "Sex";
+            Cmb_Sex.ValueMember = "SexID"; 
+            Cmb_Sex.DataSource= _SP_Sex.SP_Browes_Sex();
+          
+
+            ////Fill ChLB  Last Disease
+            ChLB_LastDisease.DataSource = _SP_Disease.SP_Browes_Disease_All().ToArray();
+            ChLB_LastDisease.DisplayMember = "DiseaseName";
+            ChLB_LastDisease.ValueMember = "DiseaseID";
+
+            //Fill ChLB Family Disease
+            ChLB_FamilyDisease.DataSource = _SP_Disease.SP_Browes_Disease_All().ToArray();
+            ChLB_FamilyDisease.DisplayMember = "DiseaseName";
+            ChLB_FamilyDisease.ValueMember = "DiseaseID";
+
+            // Fill ChLB LastMedication
+            ChLB_LastMedication.DataSource = _SP_Medications.SP_Browes_Medications_All().ToArray();
+            ChLB_LastMedication.DisplayMember = "MedicationName";
+            ChLB_LastMedication.ValueMember = "MedicationID";
+
+
+            //Fill Combo Blood
+              
+              Cmb_Blood.DisplayMember = "BloodType";
+              Cmb_Blood.ValueMember = "BloodID";
+              Cmb_Blood.DataSource = _SP_Blood.SP_Browes_Blood();
+
+            //Fill ComboBox SocialState
+              
+              Cmb_SocialState.DisplayMember = "SocialState";
+              Cmb_SocialState.ValueMember = "SocialStateID";
+              Cmb_SocialState.DataSource = _SP_SocialState.SP_Browes_SocialState(); 
+
+            
+          
+           
+
+            
+
+
+
+        }
+
+        
+
+        
+
+        private void txt_PatientID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txt_AddressHome_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_LastDisease_Click(object sender, EventArgs e)
+        {
+            
+                if (ChLB_LastDisease.Visible == false)
+                    ChLB_LastDisease.Visible = true;
+                else ChLB_LastDisease.Visible = false;
+           
+        }
+
+       
+
+        private void btn_FamilyDisease_Click(object sender, EventArgs e)
+        {
+            if (ChLB_FamilyDisease.Visible == false)
+                ChLB_FamilyDisease.Visible = true;
+            else
+                ChLB_FamilyDisease.Visible = false;
+
+        }
+
+        private void btn_LastMedication_Click(object sender, EventArgs e)
+        {
+            if (ChLB_LastMedication.Visible == false)
+                ChLB_LastMedication.Visible = true;
+            else ChLB_LastMedication.Visible = false;
+        }
+
+        private void txt_Mobile_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TS_btn_Add_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Search_Click(object sender, EventArgs e)
+        {
+           
+
+            if (RB_PatientID.Checked == true)
+            {
+                if (txt_Search.Text == "")
+                {
+                    MessageBox.Show("ادخل رقم المريض");
+                }
+                else
+                DGV_Patient_All.DataSource = _SP_Patient_All.SP_Browes_Patient_By_PatientID(Convert.ToInt32(txt_Search.Text));
+            }
+            else if (RB_FirstName.Checked == true)
+            {
+                
+                if (txt_Search.Text == "")
+                {
+                    MessageBox.Show("ادخل الاسم الاول");
+                }
+                else
+                
+                    DGV_Patient_All.DataSource = _SP_Patient_All.SP_Browes_Patient_By_FirstName(txt_Search.Text);
+            }
+            else
+            {
+                if (txt_Search.Text == "")
+                {
+                    MessageBox.Show("ادخل الاسم الاخير");
+                }
+                else
+                    DGV_Patient_All.DataSource = _SP_Patient_All.SP_Browes_Patient_By_LastName(txt_Search.Text);
+            }
+
+
+        }
+
+        private void RB_PatientID_CheckedChanged(object sender, EventArgs e)
+        {
+            txt_Search.Text = "";
+            lbl_TEXT.Text = RB_PatientID.Text;
+        }
+
+        private void RB_FirstName_CheckedChanged(object sender, EventArgs e)
+        {
+            txt_Search.Text = "";
+            lbl_TEXT.Text = RB_FirstName.Text;
+        }
+
+        private void RB_LastName_CheckedChanged(object sender, EventArgs e)
+        {
+            txt_Search.Text = "";
+            lbl_TEXT.Text = RB_LastName.Text;
+        }
+
+        private void GB_Search_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GB_Rep_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GB_Patient_Info_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DGV_Patient_All_Click(object sender, EventArgs e)
+        {
+         
+
+            
+           
+           
+            int _RowIndex = DGV_Patient_All.CurrentCell.RowIndex;
+            
+            int _CurrentRow = Convert.ToInt32(DGV_Patient_All[0, _RowIndex].Value);
+
+            _Felid_Patient = _SP_Patient_All.SP_Browes_Patient_By_PatientID(_CurrentRow);
+
+            txt_PatientID.Text = _Felid_Patient.PatientID.ToString();
+            txt_FirstName.Text = _Felid_Patient.FirstName;
+            txt_LastName.Text = _Felid_Patient.LastName;
+            //   _Felid.ImageID = (int)_Reader["ImageID"];
+            DPK_DataOfRegister.Text = _Felid_Patient.DataOfRegister.ToString();  //   _Felid.DataOfRegister = (DateTime)_Reader["DataOfRegister"];
+            DPK_DataOFBirth.Text = _Felid_Patient.DataOFBirth.ToString();   //   _Felid.DataOFBirth = (DateTime)_Reader["DataOFBirth"];
+
+           //mb_Sex.DisplayMember = "Sex";
+           //mb_Sex.ValueMember = "SexID"; 
+            Cmb_Sex.Text= _Felid_Patient.SexID.ToString();   //   _Felid.SexID = (int)_Reader["SexID"];
+            Cmb_Blood.Text = _Felid_Patient.BloodID;    //   _Felid.BloodID = (int)_Reader["BloodID"];
+            Cmb_SocialState.Text = _Felid_Patient.SocialStateID.ToString();    //   _Felid.SocialStateID = (int)_Reader["SocialStateID"];
+            Cmb_ChidNo.Text = _Felid_Patient.ChidNo.ToString();  //   _Felid.ChidNo = (int)_Reader["ChidNo"];
+            txt_Job.Text = _Felid_Patient.Job;    //   _Felid.Job = (string)_Reader["Job"];
+            txt_AddressHome.Text = _Felid_Patient.AddressHome;  //   _Felid.AddressHome = (string)_Reader["AddressHome"];
+            txt_AddressWork.Text = _Felid_Patient.AddressWork;  //   _Felid.AddressWork = (string)_Reader["AddressWork"];
+            Mtxt_Email.Text = _Felid_Patient.Email;   //   _Felid.Email = (string)_Reader["Email"];
+            Mtxt_Tel.Text = _Felid_Patient.Tel.ToString();   //   _Felid.Tel = (int)_Reader["Tel"];
+            MtxtMob.Text = _Felid_Patient.Mobile.ToString();  //   _Felid.Mobile = (int)_Reader["Mobile"];
+            MtxtTelWork.Text = _Felid_Patient.TelWork.ToString();     //   _Felid.TelWork = (int)_Reader["TelWork"];
+            Chb_Win.Checked = _Felid_Patient.Win;     //   _Felid.Smoke = (bool)_Reader["Smoke"];
+            Chb_Smoke.Checked = _Felid_Patient.Smoke;     //   _Felid.Win = (bool)_Reader["Win"];
+            //_Felid.LastDisease = (int)_Reader["LastDisease"];
+            //_Felid.LastMedication = (int)_Reader["LastMedication"];
+            //_Felid.FamilyDisease = (int)_Reader["FamilyDisease"];
+            //_Felid.Sensitive = (string)_Reader["Sensitive"];
+            //_Felid.Note = (string)_Reader["Note"];
+
+        }
+
+      
+
+       
+
+      
+    }
+}

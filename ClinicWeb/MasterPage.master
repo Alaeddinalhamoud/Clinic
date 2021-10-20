@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<%@ Register assembly="Evolve.Web.UI.Toolbar" namespace="Evolve.Web.UI.Toolbar" tagprefix="etc" %>
+<%@ Register assembly="GeminiSoftworks.Web.Navigation" namespace="GeminiSoftworks.Web.Navigation" tagprefix="cc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"   >
+<head runat="server">
+    <title>الصفحة الرئيسية</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     
+ 
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table align="center">
+            <tr>
+                <td colspan="3">
+                    &nbsp;
+                      <asp:Image ID="Image1" runat="server" Height="214px" ImageAlign="Middle" ImageUrl="~/Images/Logo.png"
+                        Width="1040px" />
+                </td>
+            </tr>
+            <tr>
+               <td   style="width: 251px; height: 40px"    >
+                   <cc1:TabBar ID="TabBar1" runat="server" Tabs-Capacity="8" 
+                       UseCustomTabImages="False" Width="1035px" Font-Bold="True" 
+                       Font-Italic="True" Font-Size="Medium" ForeColor="#0066FF" 
+                       ActiveTabBorderImage="Images/TabBar/atab_border.gif" 
+                       ActiveTabCenterImage="Images/TabBar/atab_center.gif" 
+                       ActiveTabLeftImage="Images/TabBar/atab_left.gif" 
+                       ActiveTabRightImage="Images/TabBar/atab_right.gif" AlignTabs="center" 
+                       InactiveTabBorderImage="Images/TabBar/itab_border.gif" 
+                       InactiveTabCenterImage="Images/TabBar/itab_center.gif" 
+                       InactiveTabLeftImage="Images/TabBar/itab_left.gif" 
+                       InactiveTabRightImage="Images/TabBar/itab_right.gif" 
+                       TabBarBorderImage="Images/TabBar/tabbar_border.gif" 
+                       AutoDetermineActiveTabByPage="True" EnableTheming="True" 
+                       ontabclick="TabBar1_TabClick">
+                      
+                           
+                       <cc1:Tab Link="~/ConectPage.aspx" Name="ClinicInfoPafe" PreserveFormOnTransfer="False" 
+                           Text="معلومات الطيب" ToolTip="عن الطيب" UseServerTransferMethod="False" 
+                           Visible="True" />
+                       <cc1:Tab Link="~/PaientPage.aspx" Name="PatientPage" PreserveFormOnTransfer="False" 
+                           Text="المرضى" ToolTip="صفحة المرضى" UseServerTransferMethod="False" 
+                           Visible="True" />
+                       <cc1:Tab Link="~/Appo.aspx" Name="AppoetmentPage" PreserveFormOnTransfer="False" 
+                           Text="المواعيد" ToolTip="لحجز و الفاء موعد" UseServerTransferMethod="False" 
+                           Visible="True" />
+                       <cc1:Tab Link="~/AdminPage.aspx" Name="ControlPage" PreserveFormOnTransfer="False" 
+                           Text="التحكم" ToolTip="لوحة التحكم" UseServerTransferMethod="False" 
+                           Visible="True" />
+                       <cc1:Tab Link="~/Default.aspx" Name="HomePage" PreserveFormOnTransfer="False" Text="الرئيسية" 
+                           ToolTip="الصفحة الرئيسية" UseServerTransferMethod="False" 
+                           Visible="True"  />
+                           
+                   </cc1:TabBar>
+                </td>
+               
+                
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" align="center" dir="rtl"  >
+                    &nbsp;
+                    <asp:Label ID="Label1" runat="server" Text="جميع الحقوق محفوظة لـ Go Friends" 
+                        Font-Bold="False" Font-Size="Medium"></asp:Label>
+                    <br />
+                    <asp:Label ID="lblYearNow" runat="server" Text=""></asp:Label>
+                  
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

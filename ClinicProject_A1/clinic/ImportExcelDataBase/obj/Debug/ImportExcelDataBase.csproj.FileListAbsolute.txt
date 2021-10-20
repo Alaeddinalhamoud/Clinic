@@ -1,0 +1,24 @@
+D:\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\ImportExcelDataBase.dll
+D:\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\ImportExcelDataBase.pdb
+D:\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\Sqlhelper.dll
+D:\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ImportExcelDataBase.dll
+D:\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ImportExcelDataBase.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\ImportExcelDataBase.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\ImportExcelDataBase.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\Sqlhelper.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ImportExcelDataBase.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ImportExcelDataBase.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\ImportExcelDataBase.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\ImportExcelDataBase.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\Sqlhelper.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ImportExcelDataBase.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ImportExcelDataBase.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\ImportExcelDataBase.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\ImportExcelDataBase.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\bin\Debug\Sqlhelper.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ImportExcelDataBase.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\ImportExcelDataBase\obj\Debug\ImportExcelDataBase.pdb

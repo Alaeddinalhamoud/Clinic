@@ -1,0 +1,50 @@
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+D:\Pro\Bak_25-3-2008_Final\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+D:\Pro\Bak_25-3-2008_Finallll\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+D:\Pro\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+D:\Bak_29-3-2008_final\Bak_27-3-2008_final\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+D:\ClinicProject_A1\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
+D:\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+D:\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+D:\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+D:\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
+C:\Project Test\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+C:\Project Test\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+C:\Project Test\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Project Test\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+C:\Project Test\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\VIP\Desktop\bak_20-6-2006_withExcel\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+C:\Documents and Settings\V-P\Desktop\9-7-2008\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DBUtility\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.dll
+C:\Documents and Settings\V.I.P\Desktop\10-7-2008\ClinicProject_A1\clinic\DBUtility\obj\Debug\DBUtility.pdb
