@@ -11,4 +11,4 @@ Project details - PDF (Arabic) (Arabic)
 https://drive.google.com/file/d/1rsR9TsV6dCf1M2oac7MXG6GMT1VwKwS0/view?usp=sharing
 
 
-You may find an issue with the code or spelling (Fields or modles => filed) 😂
+You may find an issue with the code or spelling (Fields or models => filed) 😂
